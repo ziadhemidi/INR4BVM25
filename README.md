@@ -3,7 +3,7 @@
 This tutorial provides an introduction to implicit neural representations, a powerful technique for encoding continuous signals using neural networks.
 **Filled notebooks**
 [![View on Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=View%20On%20Github&color=lightgrey)](https://github.com/ziadhemidi/INR4BVM25.git)
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/INR4MICCAI/INRTutorial/blob/main/INR_Tutorial.ipynb)
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ziadhemidi/INR4BVM25/blob/main/INR_turorial.ipynb)
 The tutorial covers the following key topics:
 
 1. **Introduction to Implicit Neural Representations**: Understanding the basics and significance of implicit neural representations.
