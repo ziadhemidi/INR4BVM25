@@ -3,6 +3,7 @@
 This tutorial introduces implicit neural representations, a powerful technique for encoding continuous signals using neural networks.
 
 **Open Notebook Template on Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ziadhemidi/INR4BVM25/blob/main/INR_turorial_template.ipynb)
+
 **Also check out our INR Playground on Hugging face Spaces:** [![Open In Hugging Face Spaces](https://img.shields.io/static/v1.svg?logo=huggingface&label=Hugging%20Face%20Spaces&message=Open%20In%20Hugging%20Face%20Spaces&color=lightgrey)](https://huggingface.co/spaces/ziadhemidi/INR_playground)
 
 The tutorial covers the following key topics:
